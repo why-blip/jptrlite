@@ -4,7 +4,7 @@
 
 JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
 
-## ✨ Try it in your browser ✨
+## ✨ Try it in your browser ✨ Le mien est là : https://why-blip.github.io/jptrlite/lab/index.html
 
 ➡️ **https://jupyterlite.github.io/demo**
 
